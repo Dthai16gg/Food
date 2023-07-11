@@ -14,38 +14,84 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afd6a176-0d9c-4075-849d-dca74acc6ae3" name="Changes" comment="" />
+    <list default="true" id="afd6a176-0d9c-4075-849d-dca74acc6ae3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.SolutionFastFood/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SolutionFastFood/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SolutionFastFood/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/Administrator.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/Administrator.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/Administrator.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/Administrator.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/Administrator.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/Administrator.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/Administrator.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/Administrator.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/Debug/net7.0/Administrator.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/Debug/net7.0/Administrator.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/Debug/net7.0/Administrator.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/Debug/net7.0/Administrator.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/Debug/net7.0/Administrator.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/Debug/net7.0/Administrator.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Client/Client.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Client/Client.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Common.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Common.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/Debug/net7.0/Common.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Debug/net7.0/Common.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/Debug/net7.0/Common.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Debug/net7.0/Common.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/Debug/net7.0/Common.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/Debug/net7.0/Common.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Common/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/WebApplicationAPI.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/WebApplicationAPI.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/Debug/net7.0/WebApplicationAPI.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/Debug/net7.0/WebApplicationAPI.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/Debug/net7.0/WebApplicationAPI.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/Debug/net7.0/WebApplicationAPI.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/Debug/net7.0/WebApplicationAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/Debug/net7.0/WebApplicationAPI.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/WebApplicationAPI.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/WebApplicationAPI.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/WebApplicationAPI.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/WebApplicationAPI.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/WebApplicationAPI.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/WebApplicationAPI.csproj.nuget.g.targets" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/rider.project.restore.info" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2SNcNin4oyw9QRk1wUbuh66WHd7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "ignore.virus.scanning.warn.message": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "C:\\Users\\Dthai\\AppData\\Local\\JetBrains\\Shared\\vAny\\DecompilerCache",
-      "C:\\Users\\Dthai\\AppData\\Local\\JetBrains\\Shared\\vAny\\SourcesCache",
-      "C:\\Users\\Dthai\\AppData\\Local\\Symbols\\src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;C:\\Users\\Dthai\\AppData\\Local\\JetBrains\\Shared\\vAny\\DecompilerCache&quot;,
+      &quot;C:\\Users\\Dthai\\AppData\\Local\\JetBrains\\Shared\\vAny\\SourcesCache&quot;,
+      &quot;C:\\Users\\Dthai\\AppData\\Local\\Symbols\\src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected=".NET Launch Settings Profile.WebApplicationAPI: IIS Express">
     <configuration name="Administrator: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Administrator/Administrator.csproj" />
@@ -177,6 +223,8 @@
       <option name="presentableId" value="Default" />
       <updated>1688990449072</updated>
       <workItem from="1688990451541" duration="1084000" />
+      <workItem from="1688991718989" duration="2543000" />
+      <workItem from="1689050566574" duration="728000" />
     </task>
     <servers />
   </component>
