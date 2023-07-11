@@ -49,7 +49,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "ReSpellerSettingsId",
+    "settings.editor.selected.configurable": "preferences.keymap",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -192,7 +192,8 @@
       <updated>1688990449072</updated>
       <workItem from="1688990451541" duration="1084000" />
       <workItem from="1688991718989" duration="2543000" />
-      <workItem from="1689050566574" duration="1388000" />
+      <workItem from="1689050566574" duration="1691000" />
+      <workItem from="1689069158719" duration="2840000" />
     </task>
     <servers />
   </component>

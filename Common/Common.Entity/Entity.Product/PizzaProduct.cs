@@ -24,6 +24,7 @@ public abstract class PizzaProduct : IEntity.IEntity
     //Status
     [Required]
     public bool Status { get; set; }
+    public Guid TitleId { get; set; }
     [AllowNull]
     public virtual Title? Title { get; set; }
 }

@@ -17,7 +17,6 @@
 
     <ItemGroup>
         <Folder Include="Common.Configurations\" />
-        <Folder Include="Common.Entity\" />
     </ItemGroup>
 
 </Project>

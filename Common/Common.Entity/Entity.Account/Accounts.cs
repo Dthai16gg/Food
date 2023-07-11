@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Common.Common.Entity.Entity.Account;
 
-public class Account : IEntity.IEntity
+public class Accounts : IEntity.IEntity
 {
     [Required]
     [Display(Name = "First name")]
