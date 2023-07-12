@@ -1,5 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
+using System.Text.Json.Serialization;
 using Common.Common.Entity.Entity.Delivery;
 using Common.Common.Entity.Entity.Transaction;
 
@@ -25,7 +26,10 @@ public class Accounts : IEntity.IEntity
   [Display(Name = "Email Address")]
   [MaxLength(50, ErrorMessage = "Email Address cannot be longer than 50 characters.")]
   public string? EmailAddress { get; set; }
-
+  [Required(ErrorMessage = "UserName is required")]
+  public string? UserName { get; set; }
+  [JsonIgnore]
+  [Required(ErrorMessage = "Password is required")]
   public string? Password { get; set; }
   [MaxLength(10, ErrorMessage = "Mobile Phone cannot be longer than 12 characters.")]
   [RegularExpression("^(\\+84|0)\\d{9,10}$", ErrorMessage = "Not a valid phone number")]

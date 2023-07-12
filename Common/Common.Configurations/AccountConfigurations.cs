@@ -10,8 +10,8 @@ public class AccountConfigurations : IEntityTypeConfiguration<Accounts>
   {
     builder.ToTable("Accounts");
     builder.HasKey(x => x.Id);
-    builder.HasOne<AuthorRole>(x => x.AuthorRoles)
+    builder.HasOne(x => x.AuthorRoles)
         .WithMany(x => x.Accounts)
-        .HasForeignKey(x => x.AuthorRoleId);
+        .HasForeignKey(x => x.AuthorRoleId).HasConstraintName("FK_AuthorRoleId");
   }
 }

@@ -24,6 +24,7 @@ public class Combos : IEntity.IEntity
   [DataType(DataType.Date)]
   public DateTime TimeEnd { get; set; }
   [AllowNull]
+  public Guid? TitleId { get; set; }
   public virtual Title? Title { get; set; }
   public List<ComboMapping>? ComboMappings { get; set; }
   public List<OderDetails>? OrderDetails { get; set; }
