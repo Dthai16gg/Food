@@ -16,8 +16,15 @@
   <component name="ChangeListManager">
     <list default="true" id="afd6a176-0d9c-4075-849d-dca74acc6ae3" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.SolutionFastFood/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SolutionFastFood/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/Common.Entity/Entity.Product/PizzaProduct.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.Entity/Entity.Product/PizzaProduct.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Administrator/obj/Debug/net7.0/Administrator.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Administrator/obj/Debug/net7.0/Administrator.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Common.Context/CommonContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.Context/CommonContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Common.Entity/Entity.Account/Accounts.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.Entity/Entity.Account/Accounts.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Common.Entity/Entity.Account/AuthorRole.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.Entity/Entity.Account/AuthorRole.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Common.Entity/Entity.Combo/Combo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.Entity/Entity.Combo/Combos.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Common.Entity/Entity.Combo/ComboMapping.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.Entity/Entity.Combo/ComboMapping.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Common/Common.Entity/Entity.Delivery/DeliveryDetails.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.Entity/Entity.Delivery/DeliveryDetails.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Common/Common.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Common/Common.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplicationAPI/obj/Debug/net7.0/WebApplicationAPI.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplicationAPI/obj/Debug/net7.0/WebApplicationAPI.csproj.AssemblyReference.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,6 +34,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Common/Common.Entity/Entity.Transaction/Voucher.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectId" id="2SNcNin4oyw9QRk1wUbuh66WHd7" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="1" id="Add" />
@@ -49,7 +60,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.keymap",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -183,6 +194,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Dthai\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="afd6a176-0d9c-4075-849d-dca74acc6ae3" name="Changes" comment="" />
@@ -194,13 +208,22 @@
       <workItem from="1688991718989" duration="2543000" />
       <workItem from="1689050566574" duration="1691000" />
       <workItem from="1689069158719" duration="2840000" />
+      <workItem from="1689072166706" duration="3432000" />
+      <workItem from="1689128695609" duration="763000" />
+      <workItem from="1689129722956" duration="257000" />
+      <workItem from="1689130801620" duration="444000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

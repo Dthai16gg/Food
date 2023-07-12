@@ -1,0 +1,14 @@
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\bin\Debug\net7.0\Common.deps.json
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\bin\Debug\net7.0\Common.runtimeconfig.json
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\bin\Debug\net7.0\Common.dll
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\bin\Debug\net7.0\Common.pdb
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\Common.dll
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\refint\Common.dll
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\Common.pdb
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
+C:\Users\Dthai\Desktop\SolutionFastFood\Common\obj\Debug\net7.0\ref\Common.dll

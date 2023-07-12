@@ -1,11 +1,11 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.Diagnostics.CodeAnalysis;
-using Common.Common.Entity.Entity.Combo;
+using Common.Common.Entity.Entity.Product;
 using Common.Common.Entity.Entity.Oder;
 
-namespace Common.Common.Entity.Entity.Product;
+namespace Common.Common.Entity.Entity.Combo;
 
-public class Drink : IEntity.IEntity
+public class Combos : IEntity.IEntity
 {
   public Guid Id { get; set; }
   [Required(ErrorMessage = "Name is required")]
@@ -14,8 +14,15 @@ public class Drink : IEntity.IEntity
   [MaxLength(200, ErrorMessage = "Max Length is 200 letter")]
   public string? Description { get; set; }
   [Required(ErrorMessage = "Price is required")]
-  public decimal Price { get; set; }
-  public Guid TitleId { get; set; }
+  public decimal TotalPrice { get; set; }
+  [Required(ErrorMessage = "Status is required")]
+  public bool Status { get; set; }
+  [AllowNull]
+  [DataType(DataType.Date)]
+  public DateTime TimeStart { get; set; }
+  [AllowNull]
+  [DataType(DataType.Date)]
+  public DateTime TimeEnd { get; set; }
   [AllowNull]
   public virtual Title? Title { get; set; }
   public List<ComboMapping>? ComboMappings { get; set; }

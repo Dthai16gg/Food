@@ -1,8 +1,8 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Common.Common.Entity.Entity.Delivery;
+namespace Common.Common.Entity.Entity.Transaction;
 
-public class ShippingMethods : IEntity.IEntity
+public class PaymentMethods
 {
   public Guid Id { get; set; }
   [Required(ErrorMessage = "Name is required")]
@@ -10,5 +10,5 @@ public class ShippingMethods : IEntity.IEntity
   public string? Name { get; set; }
   [Required(ErrorMessage = "Description is required")]
   public string? Description { get; set; }
-  public List<DeliveryDetails>? DeliveryDetails { get; set; }
+  public List<TransactionReport>? TransactionReports { get; set; }
 }
